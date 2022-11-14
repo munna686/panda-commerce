@@ -19,6 +19,7 @@
     padding: 9px 25px;
     cursor: pointer;
     border: none;
+    
 }
 
 .cat1, .cat2, .cat3{
@@ -47,4 +48,8 @@
     border: none;
     box-shadow: 3px 3px 20px gray;
     border-radius: 15px;
+}
+.card-footer {
+    background-color: #fff;
+    border-top: none;
 }
