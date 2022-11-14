@@ -20,3 +20,31 @@
     cursor: pointer;
     border: none;
 }
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color: orange;
+    
+}
+
+.cat2{
+    background-color: rgb(249, 74, 249);
+}
+.cat3{
+    background-color: rgb(29, 112, 255);
+}
+.catag h1{
+    color: #fff;
+}
+.catag img{
+    width: 120px;
+}
+
+.card{
+    border: none;
+    box-shadow: 3px 3px 20px gray;
+    border-radius: 15px;
+}
